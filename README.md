@@ -12,7 +12,7 @@ Risa Mori-Kreiner, Rizki Tsari Andriani, Tobias Strasdeit, Junxian Zhou, Naoyuki
 
 gaba/
 
-　README　 :　Execute File
+README　 :　Execute File
 
   gaba.pdb : Initial structure of the simulation of GABAA
   
@@ -20,7 +20,7 @@ gaba/
 
 glr/
 
-　README   :　Execute File
+README   :　Execute File
 
   glr.pdb  : Initial structure of the simulation of GlR
   
