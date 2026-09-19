@@ -22,6 +22,6 @@ glr/
 
 README:　Execute File
 
-  glr.pdb: Initial structure of the GlR simulation 
+  glr.pdb: Initial structure of the GlyR simulation 
   
-  strp5_input.gro: Final structure of the GlR simulation 
+  strp5_input.gro: Final structure of the GlyR simulation 
