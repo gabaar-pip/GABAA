@@ -6,9 +6,9 @@ Risa Mori-Kreiner, Rizki Tsari Andriani, Tobias Strasdeit, Junxian Zhou, Naoyuki
 \it{paper name}, \B{XX} (xx), pp.XXXXX-XXXXX, (2026) 
 
 
-/DATA ---- /gaba
+/data/gaba
        |
-        -- /glr
+     /glr
 
 gaba/
   gaba.pdb : Initial structure of the simulation of GABAA
