@@ -14,14 +14,14 @@ gaba/
 
 README　 :　Execute File
 
-  gaba.pdb : Initial structure of the simulation of GABAA
+  gaba.pdb : Initial structure of the GABAA simulation
   
-  step5_input.gro : Final structure of the simulation of GABAA
+  step5_input.gro : Final structure of the GABAA simulation
 
 glr/
 
 README   :　Execute File
 
-  glr.pdb  : Initial structure of the simulation of GlR
+  glr.pdb  : Initial structure of the GlR simulation 
   
-  strp5_input.gro : Final structure of the simulation of GlR
+  strp5_input.gro : Final structure of the GlR simulation 
