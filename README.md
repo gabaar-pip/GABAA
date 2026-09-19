@@ -6,13 +6,14 @@ Risa Mori-Kreiner, Rizki Tsari Andriani, Tobias Strasdeit, Junxian Zhou, Naoyuki
 \it{paper name}, \B{XX} (xx), pp.XXXXX-XXXXX, (2026) 
 
 
-/DATA ---- /gabaa-- xxx.pdb, XXXXX
+/DATA ---- /gaba.pdb
        |
-        -- /str-- xxx.pdb, XXXXX
+        -- /str5.pdb
 
 gaba
-  xxx.pdb : Initial structure of the simulation of GABAA
-  xxxxxxx : 
+  gaba.pdb : Initial structure of the simulation of GABAA
+  str5.gro : Final structure of the simulation of GABAA
 
-str
-   xxxx.pdb: xx
+Glr
+  glr.pdb  : Initial structure of the simulation of Glr
+  str5.gro : Final structure of the simulation of Glr
