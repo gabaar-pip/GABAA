@@ -15,7 +15,7 @@ gaba/
   
   step5_input.gro : Final structure of the simulation of GABAA
 
-Glr/
+glr/
   glr.pdb  : Initial structure of the simulation of GlR
   
   strp5_input.gro : Final structure of the simulation of GlR
